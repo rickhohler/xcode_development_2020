@@ -1,3 +1,6 @@
 [submodule "samples/AnimatedGifLaunchScreen-Example"]
 	path = samples/AnimatedGifLaunchScreen-Example
 	url = git@github.com:amerhukic/AnimatedGifLaunchScreen-Example.git
+[submodule "samples/RevealingSplashView"]
+	path = samples/RevealingSplashView
+	url = git@github.com:PiXeL16/RevealingSplashView.git
