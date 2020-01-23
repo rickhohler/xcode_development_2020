@@ -4,3 +4,6 @@
 [submodule "samples/RevealingSplashView"]
 	path = samples/RevealingSplashView
 	url = git@github.com:PiXeL16/RevealingSplashView.git
+[submodule "samples/swiftui-notes"]
+	path = samples/swiftui-notes
+	url = https://github.com/heckj/swiftui-notes
